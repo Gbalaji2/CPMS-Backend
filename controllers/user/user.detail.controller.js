@@ -65,5 +65,3 @@ export const UserDetail = async (req, res) => {
     },
   });
 };
-
-export { UserDetail };
